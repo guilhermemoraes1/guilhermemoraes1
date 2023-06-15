@@ -2,6 +2,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemoraes1)](https://github.com/anuraghazra/github-readme-stats)
+![download20230604101530](https://github.com/guilhermemoraes1/guilhermemoraes1/assets/127672759/d4c46f3f-14c0-4030-874d-b64c8ece1da2)
 
 <!--
 **guilhermemoraes1/guilhermemoraes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
