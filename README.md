@@ -1,7 +1,23 @@
 ### 👋 Guilherme Moraes, 19 years old, always learning something new 💜💻💬
 
-|<img align="center" alt="Rafa-Csharp" height="300" width="300" src="https://github.com/guilhermemoraes1/guilhermemoraes1/assets/127672759/d4c46f3f-14c0-4030-874d-b64c8ece1da2">|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemoraes1)|
-|----------|----------|
+<img align="center" height="195px" src="https://github-readme-stats-gfg7.vercel.app/api?username=guilhermemoraes1" alt="github stats"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemoraes1)
+
+
+
+<div style="text-align: center;">
+  
+
+  
+</div>
+
+<img align="center" alt="Rafa-Csharp" height="100" width="100" src="https://github.com/guilhermemoraes1/guilhermemoraes1/blob/main/img/7pgdtp.gif">
+<!-- |----------|----------|----------| -->
+<div width="100%" align="center">
+     
+
+  </div>
 <!--
 **guilhermemoraes1/guilhermemoraes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
