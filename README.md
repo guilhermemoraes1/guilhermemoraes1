@@ -1,4 +1,4 @@
-## <p align='center'> 👋 Guilherme Moraes, 19 years old, always learning something new 💜💻💬</p>
+## <p align='center'>👋 Guilherme Moraes, 19 years old, always learning something new 💜💻💬</p>
 
 <div align="center">
   <picture >
