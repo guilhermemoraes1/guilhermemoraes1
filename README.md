@@ -1,13 +1,28 @@
 ## <p align='center'> 👋 Guilherme Moraes, 19 years old, always learning something new 💜💻💬</p>
 
+<picture >
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=guilhermemoraes1&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermemoraes1&show_icons=true" />
+</picture>
+
+<!--
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemoraes1&show_icons=true&theme=transparent&line_height=27" alt="Guilherme github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=ocean_dark&line_height=27#gh-dark-mode-only" alt="Guilherme github stats" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only" alt="Guilherme github stats" />
+  
 <p align="center">
   <img align="center" src="https://github-readme-stats-gfg7.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark" alt="Guilherme github stats"/>
 </p>
-
+-->
 
 ### <p align='center'> 🌎 Onde me encontrar:</p>
 <div align='center'>
