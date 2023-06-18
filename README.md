@@ -1,9 +1,14 @@
-### <p align='center'> 👋 Guilherme Moraes, 19 years old, always learning something new 💜💻💬</p>
+## <p align='center'> 👋 Guilherme Moraes, 19 years old, always learning something new 💜💻💬</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemoraes1&show_icons=true&theme=ocean_dark&line_height=27" alt="Guilherme github stats" />
+</p>
 
-<img align="center" height="195px" src="https://github-readme-stats-gfg7.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark" alt="github stats"/>
+<p align="center">
+  <img align="center" src="https://github-readme-stats-gfg7.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark" alt="Guilherme github stats"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemoraes1&show_icons=true&theme=ocean_dark)
+---
 
 <div align='center'>
   <a  href="https://twitter.com/GuilhermeML00" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
