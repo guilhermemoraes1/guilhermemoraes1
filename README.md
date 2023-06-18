@@ -2,6 +2,7 @@
 
 
 <img align="center" height="195px" src="https://github-readme-stats-gfg7.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark" alt="github stats"/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemoraes1&show_icons=true&theme=ocean_dark)
 
 <div align='center'>
