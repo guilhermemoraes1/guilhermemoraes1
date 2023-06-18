@@ -1,7 +1,7 @@
 ## <p align='center'> 👋 Guilherme Moraes, 19 years old, always learning something new 💜💻💬</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemoraes1&show_icons=true&theme=ocean_dark&line_height=27" alt="Guilherme github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemoraes1&show_icons=true&theme=transparent&line_height=27" alt="Guilherme github stats" />
 </p>
 
 <p align="center">
