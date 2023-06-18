@@ -14,7 +14,7 @@
   <a  href="https://twitter.com/GuilhermeML00" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gui_lherme_moraes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:liraguilhermemorais@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href=""><img src="https://komarev.com/ghpvc/?username=guilhermemoraes1&style=for-the-badge" target="_blank"></a>
+  <a href=""><img src="https://komarev.com/ghpvc/?username=guilhermemoraes1&style=for-the-badge&color=blueviolet" target="_blank"></a>
 </div>
 <div align='center'><img alt="my-gif" height="100" width="100" src="https://github.com/guilhermemoraes1/guilhermemoraes1/blob/main/img/7pgdtp.gif"></div>
 
