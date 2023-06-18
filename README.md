@@ -23,7 +23,7 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemoraes1&theme=buefy&layout=compact&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemoraes1&layout=compact&icon_color=41b883&show_icons=true" width="400px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemoraes1&layout=compact&show_icons=true&theme=ocean_dark" width="400px" />
   </picture>
 </div>
 
