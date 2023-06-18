@@ -27,6 +27,8 @@
   </picture>
 </div>
 
+  ##
+  
 ### <p align='center'> 🌎 Onde me encontrar:</p>
 <div align='center'>
   <a  href="https://twitter.com/GuilhermeML00" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -35,6 +37,8 @@
   <a href=""><img src="https://komarev.com/ghpvc/?username=guilhermemoraes1&style=for-the-badge&color=blueviolet" target="_blank"></a>
 </div>
 <div align='center'><img alt="my-gif" height="100" width="100" src="https://github.com/guilhermemoraes1/guilhermemoraes1/blob/main/img/7pgdtp.gif"></div>
+
+![Snake animation](https://github.com/guilhermemoraes1/guilhermemoraes1/guilhermemoraes1/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 Beecrowd
