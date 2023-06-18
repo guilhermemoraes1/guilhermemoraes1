@@ -8,8 +8,8 @@
   <img align="center" src="https://github-readme-stats-gfg7.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark" alt="Guilherme github stats"/>
 </p>
 
----
 
+### <p align='center'> 🌎 Onde me encontrar:</p>
 <div align='center'>
   <a  href="https://twitter.com/GuilhermeML00" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gui_lherme_moraes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
