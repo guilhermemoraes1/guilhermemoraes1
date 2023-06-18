@@ -1,4 +1,4 @@
-### 👋 Guilherme Moraes, 19 years old, always learning something new 💜💻💬
+### <p align='center'> 👋 Guilherme Moraes, 19 years old, always learning something new 💜💻💬</p>
 
 
 <img align="center" height="195px" src="https://github-readme-stats-gfg7.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark" alt="github stats"/>
