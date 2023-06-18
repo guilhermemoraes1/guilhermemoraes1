@@ -38,7 +38,7 @@
 </div>
 <div align='center'><img alt="my-gif" height="100" width="100" src="https://github.com/guilhermemoraes1/guilhermemoraes1/blob/main/img/7pgdtp.gif"></div>
 
-  ![Snake animation](https://github.com/guilhermemoraes1/guilhermemoraes1/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/guilhermemoraes1/guilhermemoraes1/blob/output/github-contribution-grid-snake2.svg)
 
 <!--
 Beecrowd
