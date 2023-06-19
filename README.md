@@ -33,7 +33,7 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=guilhermemoraes1&theme=buefy&hide_border=false"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=guilhermemoraes1&theme=buefy&hide_border=false&currStreakNum=41B883&currStreakLabel=41B883"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermemoraes1&theme=ocean_dark&hide_border=false" />
