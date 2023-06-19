@@ -10,7 +10,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=buefy&icon_color=41b883&rank_icon=github"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark&rank_icon=github" />
   </picture>
 </div>
 <div align="center">
