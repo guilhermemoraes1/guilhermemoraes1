@@ -26,6 +26,19 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemoraes1&layout=compact&show_icons=true&theme=ocean_dark" width="400px" />
   </picture>
 </div>
+<div align="center">
+  <picture >
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=guilhermemoraes1&theme=ocean_dark&hide_border=false"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=guilhermemoraes1&theme=buefy&hide_border=false"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermemoraes1&theme=ocean_dark&hide_border=false" />
+  </picture>
+</div>
 
   ##
   
