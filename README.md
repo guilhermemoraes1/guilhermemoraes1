@@ -3,28 +3,28 @@
 <div align="center">
   <picture >
     <source
-      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark&rank_icon=github"
+      srcset="https://github-readme-stats-git-master-guilhermemoraes1.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark&rank_icon=github"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=buefy&icon_color=41b883&rank_icon=github"
+      srcset="https://github-readme-stats-git-master-guilhermemoraes1.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=buefy&icon_color=41b883&rank_icon=github"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark&rank_icon=github" />
+    <img src="github-readme-stats-git-master-guilhermemoraes1.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark&rank_icon=github" />
   </picture>
 </div>
 <!-- Excluding the html-css repositorie -->
 <div align="center">
   <picture >
     <source
-      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guilhermemoraes1&exclude_repo=html-css&layout=compact&show_icons=true&theme=ocean_dark"
+      srcset="https://github-readme-stats-git-master-guilhermemoraes1.vercel.app/api/top-langs/?username=guilhermemoraes1&exclude_repo=html-css&layout=compact&show_icons=true&theme=ocean_dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guilhermemoraes1&exclude_repo=repo1&theme=buefy&layout=compact&show_icons=true"
+      srcset="https://github-readme-stats-git-master-guilhermemoraes1.app/api/top-langs/?username=guilhermemoraes1&exclude_repo=repo1&theme=buefy&layout=compact&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guilhermemoraes1&exclude_repo=repo1&layout=compact&show_icons=true&theme=ocean_dark" width="400px" />
+    <img src="https://github-readme-stats-git-master-guilhermemoraes1.app/api/top-langs/?username=guilhermemoraes1&exclude_repo=repo1&layout=compact&show_icons=true&theme=ocean_dark" width="400px" />
   </picture>
 </div>
 <div align="center">
