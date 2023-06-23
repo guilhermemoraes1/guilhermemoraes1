@@ -1,5 +1,7 @@
 ## <p align='center'>👋 Guilherme Moraes, 19 years old, always learning something new 💜💻💬</p>
 
+<details>
+  <summary> GitHub Stats</summary>
 <div align="center">
   <picture >
     <source
@@ -40,6 +42,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermemoraes1&theme=ocean_dark&hide_border=false" />
   </picture>
 </div>
+</details>
 
   ##
   
