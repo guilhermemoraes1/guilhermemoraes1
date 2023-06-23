@@ -21,7 +21,7 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-git-master-guilhermemoraes1.app/api/top-langs/?username=guilhermemoraes1&exclude_repo=repo1&theme=buefy&layout=compact&show_icons=true"
+      srcset="https://github-readme-stats-git-master-guilhermemoraes1.vercel.app/api/top-langs/?username=guilhermemoraes1&exclude_repo=repo1&theme=buefy&layout=compact&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats-git-master-guilhermemoraes1.app/api/top-langs/?username=guilhermemoraes1&exclude_repo=repo1&layout=compact&show_icons=true&theme=ocean_dark" width="400px" />
