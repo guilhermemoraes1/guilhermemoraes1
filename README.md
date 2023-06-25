@@ -5,7 +5,7 @@
 <div align="center">
   <picture >
     <source
-      srcset="https://github-readme-stats-git-master-guilhermemoraes1.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark&rank_icon=github"
+      srcset="https://github-readme-stats-git-master-guilhermemoraes1.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark&rank_icon=github&hide=contribs"
       media="(prefers-color-scheme: dark)"
     />
     <source
