@@ -42,7 +42,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermemoraes1&theme=ocean_dark&hide_border=false" />
   </picture>
   <br>
-  <small align="center">If the three images do not appear, please refresh the page 😉</small>
+  <small align="center">If the three images do not appear, please refresh the page :arrows_counterclockwise:</small>
 </div>
 </details>
 
