@@ -46,7 +46,9 @@
 </div>
 </details>
 
-
+<!-- Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=guilhermemoraes1&theme=onedark)](https://github.com/guilhermemoraes/github-profile-trophy)
+-->
   ##
   
 ### <p align='center'> 🌎 Onde me encontrar:</p>
