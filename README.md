@@ -3,44 +3,51 @@
 <details>
   <summary> GitHub Stats</summary>
 <div align="center">
-  <picture >
-    <source
-      srcset="https://github-readme-stats-git-master-guilhermemoraes1.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark&rank_icon=github&hide=contribs"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-git-master-guilhermemoraes1.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=buefy&icon_color=41b883&rank_icon=github"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="github-readme-stats-git-master-guilhermemoraes1.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark&rank_icon=github" />
-  </picture>
+  <a href="https://github.com/guilhermemoraes1/github-readme-stats">
+    <picture >
+      <source
+        href="https://github.com/guilhermemoraes1/github-readme-stats"
+        srcset="https://github-readme-stats-git-master-guilhermemoraes1.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark&rank_icon=github&hide=contribs"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-git-master-guilhermemoraes1.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=buefy&icon_color=41b883&rank_icon=github"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="github-readme-stats-git-master-guilhermemoraes1.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark&rank_icon=github" />
+    </picture>
+  </a>
 </div>
 <!-- Excluding the html-css repositorie -->
 <div align="center">
-  <picture >
-    <source
-      srcset="https://github-readme-stats-git-master-guilhermemoraes1.vercel.app/api/top-langs/?username=guilhermemoraes1&exclude_repo=html-css&layout=compact&show_icons=true&theme=ocean_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-git-master-guilhermemoraes1.vercel.app/api/top-langs/?username=guilhermemoraes1&exclude_repo=repo1&theme=buefy&layout=compact&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats-git-master-guilhermemoraes1.app/api/top-langs/?username=guilhermemoraes1&exclude_repo=repo1&layout=compact&show_icons=true&theme=ocean_dark" width="400px" />
-  </picture>
+  <a href="https://github.com/guilhermemoraes1/github-readme-stats">
+    <picture >
+      <source
+        srcset="https://github-readme-stats-git-master-guilhermemoraes1.vercel.app/api/top-langs/?username=guilhermemoraes1&exclude_repo=html-css&layout=compact&show_icons=true&theme=ocean_dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-git-master-guilhermemoraes1.vercel.app/api/top-langs/?username=guilhermemoraes1&exclude_repo=repo1&theme=buefy&layout=compact&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats-git-master-guilhermemoraes1.app/api/top-langs/?username=guilhermemoraes1&exclude_repo=repo1&layout=compact&show_icons=true&theme=ocean_dark" width="400px" />
+    </picture>
+  </a>
 </div>
 <div align="center">
-  <picture >
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=guilhermemoraes1&theme=ocean_dark&hide_border=false"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=guilhermemoraes1&theme=buefy&hide_border=false&currStreakNum=41B883&currStreakLabel=41B883"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermemoraes1&theme=ocean_dark&hide_border=false" />
-  </picture>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <picture >
+      <source
+        srcset="https://github-readme-streak-stats.herokuapp.com/?user=guilhermemoraes1&theme=ocean_dark&hide_border=false"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-streak-stats.herokuapp.com/?user=guilhermemoraes1&theme=buefy&hide_border=false&currStreakNum=41B883&currStreakLabel=41B883"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermemoraes1&theme=ocean_dark&hide_border=false" />
+    </picture>
+  </a>
   <br>
   <small align="center">If the three images do not appear, please refresh the page :arrows_counterclockwise:</small>
 </div>
@@ -61,7 +68,7 @@
   <img src="https://img.shields.io/freecodecamp/points/guilhermemoraes?label=freeCodeCamp&logo=freecodecamp&style=for-the-badge" />
   <a href=""><img src="https://komarev.com/ghpvc/?username=guilhermemoraes1&style=for-the-badge&logo=github&color=blueviolet" target="_blank"></a>
 </div>
-<div align='center'><img alt="my-gif" height="100" width="100" src="https://github.com/guilhermemoraes1/guilhermemoraes1/blob/main/img/7pgdtp.gif"></div>
+<div align='center'><a href="https://picrew.me/en/image_maker/338224"><img alt="my-gif" height="100" width="100" src="https://github.com/guilhermemoraes1/guilhermemoraes1/blob/main/img/7pgdtp.gif"></a></div>
 
 ![snake animation](https://github.com/guilhermemoraes1/guilhermemoraes1/blob/output/github-contribution-grid-snake.svg)
 
