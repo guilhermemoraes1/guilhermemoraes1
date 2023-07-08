@@ -52,8 +52,21 @@
   <small align="center">If the three images do not appear, please refresh the page :arrows_counterclockwise:</small>
 </div>
 </details>
+<div>
 
-<!-- 
+<details>
+    <summary>Used Languages </summary>
+    <img src="https://wakatime.com/share/@guilhermemoraes1/dc10af0c-5617-41e5-88f9-12db4a793563.svg" height="400px" alt="Used Languages />
+      
+</details>
+      
+<details>
+    <summary>Coding time </summary>
+    <img src="https://wakatime.com/share/@guilhermemoraes1/21aa43bb-8a6e-47fc-a837-0d64c44c0a23.svg" alt="Coding time" />
+  
+</details>
+
+<!--
 <details>
   <summary>Wakatime status</summary>
   
