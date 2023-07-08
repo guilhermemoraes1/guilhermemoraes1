@@ -56,52 +56,27 @@
   
 <details>
     <summary>Used Languages </summary>
-  <div align="center">
-    <a href="https://wakatime.com/@guilhermemoraes1">
-      <picture >
-        <source
-          srcset="https://wakatime.com/share/@guilhermemoraes1/ccf9e60b-95ce-43ce-83d3-f6e9b9c08a90.svg"
-          height="400px"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://wakatime.com/share/@guilhermemoraes1/a2e9cbf9-20fd-42fc-82e8-6d9c47642300.svg"
-          height="400px"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://wakatime.com/share/@guilhermemoraes1/dc10af0c-5617-41e5-88f9-12db4a793563.svg" height="400px" alt="Used Languages />
-      </picture>
-    </a>
+    <div align="center">
+      <a href="https://wakatime.com/@guilhermemoraes1">
+        <picture >
+          <source
+            srcset="https://wakatime.com/share/@guilhermemoraes1/ccf9e60b-95ce-43ce-83d3-f6e9b9c08a90.svg"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://wakatime.com/share/@guilhermemoraes1/a2e9cbf9-20fd-42fc-82e8-6d9c47642300.svg"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://wakatime.com/share/@guilhermemoraes1/dc10af0c-5617-41e5-88f9-12db4a793563.svg" height="400px" alt="Used Languages />
+        </picture>
+      </a>
   </div>
 </details>
 
 <details>
     <summary>Coding time </summary>
-  <div align="center">
-    <a href="https://wakatime.com/@guilhermemoraes1">
-      <picture >
-        <source
-          srcset="https://wakatime.com/share/@guilhermemoraes1/a5cf2553-97ec-4f0a-b42e-45ffc42c36da.svg">
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://wakatime.com/share/@guilhermemoraes1/a813b9ac-c7b0-4b6e-84a3-be262db18c14.svg" height="400px"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://wakatime.com/share/@guilhermemoraes1/a5cf2553-97ec-4f0a-b42e-45ffc42c36da.svg"> />
-      </picture>
-    </a>
-  </div>
+  <img src="https://wakatime.com/share/@guilhermemoraes1/70be42a5-f3b3-4b8e-b71e-a93b22d06d77.svg">
 </details>
-
-
-
-<details>
-    <summary>Coding time </summary>
-    <img src="https://wakatime.com/share/@guilhermemoraes1/21aa43bb-8a6e-47fc-a837-0d64c44c0a23.svg" alt="Coding time" />
-  
-</details>
-
 
 <!--Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=guilhermemoraes1&theme=onedark)](https://github.com/guilhermemoraes/github-profile-trophy)
