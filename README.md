@@ -79,14 +79,14 @@
     <a href="https://wakatime.com/@guilhermemoraes1">
       <picture >
         <source
-          srcset="https://wakatime.com/share/@guilhermemoraes1/70be42a5-f3b3-4b8e-b71e-a93b22d06d77.svg"
+          srcset="https://wakatime.com/share/@guilhermemoraes1/693102c5-c94b-40a3-b90f-b2f38b03240e.svg"
           media="(prefers-color-scheme: dark)"
         />
         <source
           srcset="https://wakatime.com/share/@guilhermemoraes1/70be42a5-f3b3-4b8e-b71e-a93b22d06d77.svg"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://wakatime.com/share/@guilhermemoraes1/70be42a5-f3b3-4b8e-b71e-a93b22d06d77.svg" alt="Coding time" />
+        <img src="https://wakatime.com/share/@guilhermemoraes1/693102c5-c94b-40a3-b90f-b2f38b03240e.svg" alt="Coding time" />
       </picture>
     </a>
   </div>
