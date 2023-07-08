@@ -53,7 +53,14 @@
 </div>
 </details>
 
-<!-- Trophies
+<!-- 
+<details>
+  <summary>Wakatime status</summary>
+  
+  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guilhermemoraes1)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
+Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=guilhermemoraes1&theme=onedark)](https://github.com/guilhermemoraes/github-profile-trophy)
 -->
   ##
