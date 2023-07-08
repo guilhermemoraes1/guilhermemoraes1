@@ -14,7 +14,7 @@
         srcset="https://github-readme-stats-git-master-guilhermemoraes1.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=buefy&icon_color=41b883&rank_icon=github"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="github-readme-stats-git-master-guilhermemoraes1.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark&rank_icon=github" />
+      <img src="https://github-readme-stats-git-master-guilhermemoraes1.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark&rank_icon=github" />
     </picture>
   </a>
 </div>
@@ -56,31 +56,42 @@
   
 <details>
     <summary>Used Languages </summary>
-    <div align="center">
-      <a href="https://wakatime.com/@guilhermemoraes1">
-        <picture >
-          <source
-            srcset="https://wakatime.com/share/@guilhermemoraes1/ccf9e60b-95ce-43ce-83d3-f6e9b9c08a90.svg"
-            media="(prefers-color-scheme: dark)"
-          />
-          <source
-            srcset="https://wakatime.com/share/@guilhermemoraes1/a2e9cbf9-20fd-42fc-82e8-6d9c47642300.svg"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          />
-          <img src="https://wakatime.com/share/@guilhermemoraes1/dc10af0c-5617-41e5-88f9-12db4a793563.svg" height="400px" alt="Used Languages />
-        </picture>
-      </a>
+  <div align="center">
+    <a href="https://wakatime.com/@guilhermemoraes1">
+      <picture >
+        <source
+          srcset="https://wakatime.com/share/@guilhermemoraes1/ccf9e60b-95ce-43ce-83d3-f6e9b9c08a90.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://wakatime.com/share/@guilhermemoraes1/a2e9cbf9-20fd-42fc-82e8-6d9c47642300.svg"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://wakatime.com/share/@guilhermemoraes1/dc10af0c-5617-41e5-88f9-12db4a793563.svg" height="400px" alt="Used Languages" />
+      </picture>
+    </a>
   </div>
 </details>
 
 <details>
     <summary>Coding time </summary>
-  <img src="https://wakatime.com/share/@guilhermemoraes1/70be42a5-f3b3-4b8e-b71e-a93b22d06d77.svg">
+  <div align="center">
+    <a href="https://wakatime.com/@guilhermemoraes1">
+      <picture >
+        <source
+          srcset="https://wakatime.com/share/@guilhermemoraes1/70be42a5-f3b3-4b8e-b71e-a93b22d06d77.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://wakatime.com/share/@guilhermemoraes1/70be42a5-f3b3-4b8e-b71e-a93b22d06d77.svg"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://wakatime.com/share/@guilhermemoraes1/70be42a5-f3b3-4b8e-b71e-a93b22d06d77.svg" alt="Coding time" />
+      </picture>
+    </a>
+  </div>
 </details>
 
-<!--Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=guilhermemoraes1&theme=onedark)](https://github.com/guilhermemoraes/github-profile-trophy)
--->
   ##
   
 ### <p align='center'> 🌎 Here's where to find me::</p>
@@ -96,10 +107,3 @@
 <div align='center'><a href="https://picrew.me/en/image_maker/338224"><img alt="my-gif" height="100" width="100" src="https://github.com/guilhermemoraes1/guilhermemoraes1/blob/main/img/7pgdtp.gif"></a></div>
 
 ![snake animation](https://github.com/guilhermemoraes1/guilhermemoraes1/blob/output/github-contribution-grid-snake.svg)
-
-<!--
-Beecrowd
-  <a href="https://www.beecrowd.com" target="_blank"><img src="https://img.shields.io/badge/-BeeCrowd-%23FF0000?style=for-the-badge&logo=beecrowd&logoColor=white" alt="BeeCrowd"></a>
-LinkedIn
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
--->
