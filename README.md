@@ -11,7 +11,7 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=buefy&icon_color=41b883&rank_icon=github"
+        srcset="https://github-readme-stats.vercel.app/api?username=guilhermemoraes1&show_icons=true&count_private=true&theme=buefyk&icon_color=41b883&rank_icon=github"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img src="https://github-readme-stats.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark&rank_icon=github" />
