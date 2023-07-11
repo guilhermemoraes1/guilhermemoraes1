@@ -11,10 +11,10 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=guilhermemoraes1&show_icons=true&count_private=true&theme=buefyk&icon_color=41b883&rank_icon=github"
+        srcset="https://github-readme-stats.vercel.app/api?username=guilhermemoraes1&show_icons=true&count_private=true&theme=buefy&icon_color=41b883&rank_icon=github"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark&rank_icon=github" />
+      <img src="https://github-readme-stats.vercel.app/api?username=guilhermemoraes1&show_icons=true&count_private=true&theme=ocean_dark&rank_icon=github" />
     </picture>
   </a>
 </div>
@@ -27,7 +27,7 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemoraes1&exclude_repo=html-css&theme=buefy&layout=compact"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemoraes1&layout=compact&exclude_repo=html-css&theme=buefy"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img src="https://github-readme-stats-git-master-guilhermemoraes1.app/api/top-langs/?username=guilhermemoraes1&exclude_repo=html-css&layout=compact&theme=ocean_dark" width="400px" />
