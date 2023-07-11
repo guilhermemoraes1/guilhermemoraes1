@@ -7,7 +7,7 @@
     <picture >
       <source
         href="https://github.com/guilhermemoraes1/github-readme-stats"
-        srcset="https://github-readme-stats.vercel.app/api?username=guilhermemoraes1&show_icons=true&theme=ocean_dark&rank_icon=github&hide=contribs"
+        srcset="https://github-readme-stats.vercel.app/api?username=guilhermemoraes1&show_icons=true&count_private=true&theme=ocean_dark&rank_icon=github"
         media="(prefers-color-scheme: dark)"
       />
       <source
@@ -23,7 +23,7 @@
   <a href="https://github.com/guilhermemoraes1/github-readme-stats">
     <picture >
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemoraes1&exclude_repo=html-css&layout=compact&theme=ocean_dark"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemoraes1&layout=compact&exclude_repo=html-css&theme=ocean_dark"
         media="(prefers-color-scheme: dark)"
       />
       <source
