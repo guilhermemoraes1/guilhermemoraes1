@@ -67,7 +67,7 @@
           srcset="https://wakatime.com/share/@guilhermemoraes1/a2e9cbf9-20fd-42fc-82e8-6d9c47642300.svg"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://wakatime.com/share/@guilhermemoraes1/dc10af0c-5617-41e5-88f9-12db4a793563.svg" height="400px" alt="Used Languages" />
+        <img src="https://wakatime.com/share/@guilhermemoraes1/ccf9e60b-95ce-43ce-83d3-f6e9b9c08a90.svg" height="400px" alt="Used Languages" />
       </picture>
     </a>
   </div>
