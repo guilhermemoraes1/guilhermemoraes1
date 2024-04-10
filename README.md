@@ -109,4 +109,4 @@
 </div>
 <div align='center'><a href="https://picrew.me/en/image_maker/338224"><img alt="my-gif" height="100" width="100" src="https://github.com/guilhermemoraes1/guilhermemoraes1/blob/main/img/7pgdtp.gif"></a></div>
 
-![snake animation](https://github.com/guilhermemoraes1/guilhermemoraes1/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake animation](https://github.com/guilhermemoraes1/guilhermemoraes1/blob/output/github-contribution-grid-snake.svg) -->
