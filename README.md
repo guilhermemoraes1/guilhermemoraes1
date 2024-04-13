@@ -1,4 +1,4 @@
-## <p align='center'>👋 Guilherme Moraes, 19 years old, always learning something new 💜💻💬</p>
+## <p align='center'>👋 Guilherme Moraes, always learning something new 💜💻💬</p>
 
 <details>
   <summary> GitHub Stats</summary>
@@ -55,7 +55,7 @@
 <div>
   
 <details>
-    <summary>Used Languages </summary>
+    <summary>Technologies Used</summary>
   <div align="center">
     <a href="https://wakatime.com/@guilhermemoraes1">
       <picture >
