@@ -49,7 +49,6 @@
     </picture>
   </a>
   <br>
-  <small align="center">If the three images do not appear, please refresh the page :arrows_counterclockwise:</small>
 </div>
 </details>
 <div>
